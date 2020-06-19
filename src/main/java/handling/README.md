@@ -1,0 +1,2 @@
+# Handling 
+As the cargo progresses along its assigned route, it will need to be inspected/handled at the various ports of transit. This area covers all operations related to the Handling activity of cargos.
